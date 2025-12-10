@@ -1,0 +1,17 @@
+build/
+trash/
+data/scripts/
+docs/
+.vscode/
+*.exe
+*.obj
+*.pdb
+*.dll
+*.lib
+*.cache
+_DependInfo.json
+CMakeCache.txt
+CTestTestfile.cmake
+run.md
+README_2.md
+manual.pdf

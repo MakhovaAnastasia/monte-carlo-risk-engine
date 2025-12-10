@@ -1,0 +1,26 @@
+PROJECT_NAME           = "Monte Carlo Risk Engine"
+OUTPUT_DIRECTORY       = docs
+GENERATE_LATEX         = YES
+GENERATE_HTML          = NO
+
+INPUT                  = include src
+FILE_PATTERNS          = *.hpp *.cpp
+RECURSIVE              = YES
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = NO
+
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+
+HIDE_UNDOC_MEMBERS     = YES
+HIDE_UNDOC_CLASSES     = YES
+
+QUIET                  = YES
+WARNINGS               = NO
+
+GENERATE_TREEVIEW      = NO
+HAVE_DOT               = NO
+
+LATEX_BATCHMODE        = YES

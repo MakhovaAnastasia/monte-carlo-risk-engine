@@ -1,0 +1,6 @@
+type,ticker,quantity,strike,maturity,option_type
+STOCK,AAPL,100,,,
+STOCK,MSFT,100,,,
+STOCK,GOOG,100,,,
+OPTION,AAPL,100,180,0.5,CALL
+OPTION,MSFT,50,320,1.0,PUT
